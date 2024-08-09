@@ -1,0 +1,931 @@
+{
+  "busRoutes": [
+    {
+      "id": "1",
+      "routeTitle": "EX 1-2",
+      "route": "Kaduwela - Matara",
+      "totalSeats": 44,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": true
+        },
+        {
+          "seatNumber": 3,
+          "reserved": false
+        },
+        {
+          "seatNumber": 4,
+          "reserved": false
+        },
+        {
+          "seatNumber": 5,
+          "reserved": true
+        },
+        {
+          "seatNumber": 6,
+          "reserved": false
+        },
+        {
+          "seatNumber": 7,
+          "reserved": false
+        },
+        {
+          "seatNumber": 8,
+          "reserved": false
+        },
+        {
+          "seatNumber": 9,
+          "reserved": true
+        },
+        {
+          "seatNumber": 10,
+          "reserved": false
+        },
+        {
+          "seatNumber": 11,
+          "reserved": false
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": false
+        },
+        {
+          "seatNumber": 14,
+          "reserved": true
+        },
+        {
+          "seatNumber": 15,
+          "reserved": false
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": true
+        },
+        {
+          "seatNumber": 19,
+          "reserved": false
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": true
+        },
+        {
+          "seatNumber": 23,
+          "reserved": false
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        },
+        {
+          "seatNumber": 25,
+          "reserved": false
+        },
+        {
+          "seatNumber": 26,
+          "reserved": false
+        },
+        {
+          "seatNumber": 27,
+          "reserved": false
+        },
+        {
+          "seatNumber": 28,
+          "reserved": true
+        },
+        {
+          "seatNumber": 29,
+          "reserved": true
+        },
+        {
+          "seatNumber": 30,
+          "reserved": true
+        },
+        {
+          "seatNumber": 31,
+          "reserved": true
+        },
+        {
+          "seatNumber": 32,
+          "reserved": true
+        },
+        {
+          "seatNumber": 33,
+          "reserved": true
+        },
+        {
+          "seatNumber": 34,
+          "reserved": true
+        },
+        {
+          "seatNumber": 35,
+          "reserved": true
+        },
+        {
+          "seatNumber": 36,
+          "reserved": true
+        },
+        {
+          "seatNumber": 37,
+          "reserved": true
+        },
+        {
+          "seatNumber": 38,
+          "reserved": true
+        },
+        {
+          "seatNumber": 39,
+          "reserved": true
+        },
+        {
+          "seatNumber": 40,
+          "reserved": true
+        },
+        {
+          "seatNumber": 41,
+          "reserved": true
+        },
+        {
+          "seatNumber": 42,
+          "reserved": true
+        },
+        {
+          "seatNumber": 43,
+          "reserved": true
+        },
+        {
+          "seatNumber": 44,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 60
+    },
+    {
+      "id": "2",
+      "routeTitle": "EX 3-4",
+      "route": "Colombo - Galle",
+      "totalSeats": 24,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": false
+        },
+        {
+          "seatNumber": 3,
+          "reserved": true
+        },
+        {
+          "seatNumber": 4,
+          "reserved": false
+        },
+        {
+          "seatNumber": 5,
+          "reserved": false
+        },
+        {
+          "seatNumber": 6,
+          "reserved": false
+        },
+        {
+          "seatNumber": 7,
+          "reserved": true
+        },
+        {
+          "seatNumber": 8,
+          "reserved": false
+        },
+        {
+          "seatNumber": 9,
+          "reserved": false
+        },
+        {
+          "seatNumber": 10,
+          "reserved": false
+        },
+        {
+          "seatNumber": 11,
+          "reserved": false
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": true
+        },
+        {
+          "seatNumber": 14,
+          "reserved": false
+        },
+        {
+          "seatNumber": 15,
+          "reserved": false
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": false
+        },
+        {
+          "seatNumber": 19,
+          "reserved": true
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": false
+        },
+        {
+          "seatNumber": 23,
+          "reserved": true
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 55
+    },
+    {
+      "id": "3",
+      "routeTitle": "EX 5-6",
+      "route": "Kandy - Jaffna",
+      "totalSeats": 32,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": false
+        },
+        {
+          "seatNumber": 3,
+          "reserved": true
+        },
+        {
+          "seatNumber": 4,
+          "reserved": false
+        },
+        {
+          "seatNumber": 5,
+          "reserved": false
+        },
+        {
+          "seatNumber": 6,
+          "reserved": true
+        },
+        {
+          "seatNumber": 7,
+          "reserved": false
+        },
+        {
+          "seatNumber": 8,
+          "reserved": false
+        },
+        {
+          "seatNumber": 9,
+          "reserved": false
+        },
+        {
+          "seatNumber": 10,
+          "reserved": false
+        },
+        {
+          "seatNumber": 11,
+          "reserved": true
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": false
+        },
+        {
+          "seatNumber": 14,
+          "reserved": false
+        },
+        {
+          "seatNumber": 15,
+          "reserved": false
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": true
+        },
+        {
+          "seatNumber": 19,
+          "reserved": false
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": false
+        },
+        {
+          "seatNumber": 23,
+          "reserved": true
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        },
+        {
+          "seatNumber": 25,
+          "reserved": false
+        },
+        {
+          "seatNumber": 26,
+          "reserved": false
+        },
+        {
+          "seatNumber": 27,
+          "reserved": false
+        },
+        {
+          "seatNumber": 28,
+          "reserved": false
+        },
+        {
+          "seatNumber": 29,
+          "reserved": true
+        },
+        {
+          "seatNumber": 30,
+          "reserved": false
+        },
+        {
+          "seatNumber": 31,
+          "reserved": false
+        },
+        {
+          "seatNumber": 32,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 65
+    },
+    {
+      "id": "4",
+      "routeTitle": "EX 7-8",
+      "route": "Negombo - Trincomalee",
+      "totalSeats": 24,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": false
+        },
+        {
+          "seatNumber": 3,
+          "reserved": false
+        },
+        {
+          "seatNumber": 4,
+          "reserved": true
+        },
+        {
+          "seatNumber": 5,
+          "reserved": false
+        },
+        {
+          "seatNumber": 6,
+          "reserved": false
+        },
+        {
+          "seatNumber": 7,
+          "reserved": false
+        },
+        {
+          "seatNumber": 8,
+          "reserved": false
+        },
+        {
+          "seatNumber": 9,
+          "reserved": false
+        },
+        {
+          "seatNumber": 10,
+          "reserved": true
+        },
+        {
+          "seatNumber": 11,
+          "reserved": false
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": false
+        },
+        {
+          "seatNumber": 14,
+          "reserved": false
+        },
+        {
+          "seatNumber": 15,
+          "reserved": true
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": false
+        },
+        {
+          "seatNumber": 19,
+          "reserved": false
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": true
+        },
+        {
+          "seatNumber": 23,
+          "reserved": false
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 70
+    },
+    {
+      "id": "5",
+      "routeTitle": "EX 9-10",
+      "route": "Anuradhapura - Batticaloa",
+      "totalSeats": 32,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": true
+        },
+        {
+          "seatNumber": 3,
+          "reserved": false
+        },
+        {
+          "seatNumber": 4,
+          "reserved": false
+        },
+        {
+          "seatNumber": 5,
+          "reserved": false
+        },
+        {
+          "seatNumber": 6,
+          "reserved": false
+        },
+        {
+          "seatNumber": 7,
+          "reserved": true
+        },
+        {
+          "seatNumber": 8,
+          "reserved": false
+        },
+        {
+          "seatNumber": 9,
+          "reserved": false
+        },
+        {
+          "seatNumber": 10,
+          "reserved": false
+        },
+        {
+          "seatNumber": 11,
+          "reserved": false
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": true
+        },
+        {
+          "seatNumber": 14,
+          "reserved": false
+        },
+        {
+          "seatNumber": 15,
+          "reserved": false
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": true
+        },
+        {
+          "seatNumber": 19,
+          "reserved": false
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": false
+        },
+        {
+          "seatNumber": 23,
+          "reserved": true
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        },
+        {
+          "seatNumber": 25,
+          "reserved": false
+        },
+        {
+          "seatNumber": 26,
+          "reserved": false
+        },
+        {
+          "seatNumber": 27,
+          "reserved": false
+        },
+        {
+          "seatNumber": 28,
+          "reserved": false
+        },
+        {
+          "seatNumber": 29,
+          "reserved": true
+        },
+        {
+          "seatNumber": 30,
+          "reserved": false
+        },
+        {
+          "seatNumber": 31,
+          "reserved": false
+        },
+        {
+          "seatNumber": 32,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 58
+    },
+    {
+      "id": "6",
+      "routeTitle": "EX 11-12",
+      "route": "Hambantota - Nuwara Eliya",
+      "totalSeats": 28,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": false
+        },
+        {
+          "seatNumber": 3,
+          "reserved": true
+        },
+        {
+          "seatNumber": 4,
+          "reserved": false
+        },
+        {
+          "seatNumber": 5,
+          "reserved": false
+        },
+        {
+          "seatNumber": 6,
+          "reserved": false
+        },
+        {
+          "seatNumber": 7,
+          "reserved": false
+        },
+        {
+          "seatNumber": 8,
+          "reserved": true
+        },
+        {
+          "seatNumber": 9,
+          "reserved": false
+        },
+        {
+          "seatNumber": 10,
+          "reserved": false
+        },
+        {
+          "seatNumber": 11,
+          "reserved": false
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": false
+        },
+        {
+          "seatNumber": 14,
+          "reserved": true
+        },
+        {
+          "seatNumber": 15,
+          "reserved": false
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": false
+        },
+        {
+          "seatNumber": 19,
+          "reserved": true
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": false
+        },
+        {
+          "seatNumber": 23,
+          "reserved": false
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        },
+        {
+          "seatNumber": 25,
+          "reserved": false
+        },
+        {
+          "seatNumber": 26,
+          "reserved": true
+        },
+        {
+          "seatNumber": 27,
+          "reserved": false
+        },
+        {
+          "seatNumber": 28,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 62
+    },
+    {
+      "id": "7",
+      "routeTitle": "EX 13-14",
+      "route": "Ratnapura - Badulla",
+      "totalSeats": 32,
+      "seats": [
+        {
+          "seatNumber": 1,
+          "reserved": false
+        },
+        {
+          "seatNumber": 2,
+          "reserved": true
+        },
+        {
+          "seatNumber": 3,
+          "reserved": false
+        },
+        {
+          "seatNumber": 4,
+          "reserved": false
+        },
+        {
+          "seatNumber": 5,
+          "reserved": false
+        },
+        {
+          "seatNumber": 6,
+          "reserved": false
+        },
+        {
+          "seatNumber": 7,
+          "reserved": false
+        },
+        {
+          "seatNumber": 8,
+          "reserved": false
+        },
+        {
+          "seatNumber": 9,
+          "reserved": false
+        },
+        {
+          "seatNumber": 10,
+          "reserved": true
+        },
+        {
+          "seatNumber": 11,
+          "reserved": false
+        },
+        {
+          "seatNumber": 12,
+          "reserved": false
+        },
+        {
+          "seatNumber": 13,
+          "reserved": false
+        },
+        {
+          "seatNumber": 14,
+          "reserved": false
+        },
+        {
+          "seatNumber": 15,
+          "reserved": true
+        },
+        {
+          "seatNumber": 16,
+          "reserved": false
+        },
+        {
+          "seatNumber": 17,
+          "reserved": false
+        },
+        {
+          "seatNumber": 18,
+          "reserved": false
+        },
+        {
+          "seatNumber": 19,
+          "reserved": false
+        },
+        {
+          "seatNumber": 20,
+          "reserved": false
+        },
+        {
+          "seatNumber": 21,
+          "reserved": false
+        },
+        {
+          "seatNumber": 22,
+          "reserved": true
+        },
+        {
+          "seatNumber": 23,
+          "reserved": false
+        },
+        {
+          "seatNumber": 24,
+          "reserved": false
+        },
+        {
+          "seatNumber": 25,
+          "reserved": false
+        },
+        {
+          "seatNumber": 26,
+          "reserved": false
+        },
+        {
+          "seatNumber": 27,
+          "reserved": false
+        },
+        {
+          "seatNumber": 28,
+          "reserved": true
+        },
+        {
+          "seatNumber": 29,
+          "reserved": false
+        },
+        {
+          "seatNumber": 30,
+          "reserved": false
+        },
+        {
+          "seatNumber": 31,
+          "reserved": false
+        },
+        {
+          "seatNumber": 32,
+          "reserved": false
+        }
+      ],
+      "avgSpeed": 57
+    }
+  ]
+}
