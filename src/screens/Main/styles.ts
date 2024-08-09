@@ -9,4 +9,7 @@ export const styles = StyleSheet.create({
     gap: 26,
     paddingBottom: 40,
   },
+  heading: {
+    marginTop: 24,
+  },
 });

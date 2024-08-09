@@ -29,7 +29,7 @@ export const MainScreen: React.FC<MainScreenProps> = ({navigation}) => {
 
   return (
     <SafeAreaView style={sharedStyles.page}>
-      <View>
+      <View style={styles.heading}>
         <Heading text={'Select your route'} align={'center'} />
         <ScrollView
           style={styles.listContainer}
