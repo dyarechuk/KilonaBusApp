@@ -6,7 +6,7 @@ This project is designed to allow users to browse available bus routes, select s
 
 The following technologies are used in this project:
 
-- [React Native](https://reactnative.dev//): A framework that allows developers to build mobile applications for iOS and Android using JavaScript and React, with the ability to create natively rendered user interfaces from a single codebase.
+- [React Native](https://reactnative.dev/): A framework that allows developers to build mobile applications for iOS and Android using JavaScript and React, with the ability to create natively rendered user interfaces from a single codebase.
 - [TypeScript](https://www.typescriptlang.org/): A refined version of JavaScript that integrates type annotations into the language.
 - [Zustand](https://zustand-demo.pmnd.rs/): A lightweight, fast, and scalable state management library for React and React Native applications, allowing for global state management with a minimal API.
 - [React Native Maps](https://www.npmjs.com/package/react-native-maps/): A library that provides customizable map components for React Native applications, allowing developers to integrate maps from providers like Google Maps and Apple Maps into their mobile apps.
